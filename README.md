@@ -140,11 +140,7 @@ go-ruby-bleve/bleve authors.
 
 ## WebAssembly
 
-Being pure Go (CGO=0), this library also compiles to **WebAssembly** — both
-`GOOS=js GOARCH=wasm` (browser / Node.js) and `GOOS=wasip1 GOARCH=wasm` (WASI).
-CI builds both targets on every push, alongside the six 64-bit native/qemu arches.
-
-```sh
-GOOS=js     GOARCH=wasm go build ./...   # browser / Node
-GOOS=wasip1 GOARCH=wasm go build ./...   # WASI (wasmtime, wasmer, wasmedge, …)
-```
+Unlike the rest of the go-ruby family, this library does **not** target WebAssembly:
+its backing engine — blevesearch/bleve (memory-mapped index segments) — relies on `mmap` and native filesystem syscalls that
+the `js/wasm` and `wasip1/wasm` sandboxes do not provide. It ships for the six
+64-bit native/qemu arches only.
