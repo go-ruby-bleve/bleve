@@ -1,6 +1,6 @@
 module github.com/go-ruby-bleve/bleve
 
-go 1.26.4
+go 1.27.1
 
 require github.com/blevesearch/bleve/v2 v2.6.1
 
