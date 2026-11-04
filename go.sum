@@ -6,6 +6,8 @@ github.com/blevesearch/bleve/v2 v2.6.0 h1:Cyd3dd4q5tCbOV8MnKUVRUDYMHOir9xn12NZzX
 github.com/blevesearch/bleve/v2 v2.6.0/go.mod h1:gLmI8lWgHgrIYf7UpUX7JISI1CaqC6VScu46mHThuAY=
 github.com/blevesearch/bleve/v2 v2.6.1 h1:47vLskRTqxvQEtxVPYHjf5KpOgzD2msslXFjvUQCgWQ=
 github.com/blevesearch/bleve/v2 v2.6.1/go.mod h1:Dvvx6ZoEBTOj6RSzfk0lEz0wce/qhe2yOUubXeuzd2c=
+github.com/blevesearch/bleve/v2 v2.6.3 h1:+TvSTA10Kr5c8Dj7gidTIufor8fg7pIj4rQu2Vmw9L0=
+github.com/blevesearch/bleve/v2 v2.6.3/go.mod h1:cXYhNm5W1L8az+qt5j3D+zoVe268ZR34ymfFy6PDvdg=
 github.com/blevesearch/bleve_index_api v1.3.11 h1:x29vbV8OjWfLcrDVd7Lr1q+BkLNS0JWNEig0MCVnKH4=
 github.com/blevesearch/bleve_index_api v1.3.11/go.mod h1:xvd48t5XMeeioWQ5/jZvgLrV98flT2rdvEJ3l/ki4Ko=
 github.com/blevesearch/bleve_index_api v1.4.1 h1:CYIyecFlI+/RYjzUm+NmDjYbSvk870Bb7f+Vl4b12q8=
@@ -14,6 +16,8 @@ github.com/blevesearch/geo v0.2.5 h1:yJg9FX1oRwLnjXSXF+ECHfXFTF4diF02Ca/qUGVjJhE
 github.com/blevesearch/geo v0.2.5/go.mod h1:Jhq7WE2K6mJTx1xS44M2pUO6Io+wjCSHh1+co3YOgH4=
 github.com/blevesearch/geo v0.2.6 h1:7K1oyQKYlauC+mJuo2AfNPyjN/4mihEoJMfyClVH1Mo=
 github.com/blevesearch/geo v0.2.6/go.mod h1:6qzVUiB4BK47QkSZcRqiXEP2W3EeXuzM5XFTF8AdZ8A=
+github.com/blevesearch/geo v0.2.8 h1:nNgtlEfLzeWH4/UJZD4k5kP+E4cI+ogfmSti0XGnWNM=
+github.com/blevesearch/geo v0.2.8/go.mod h1:07qi9wrXpXWIscoMrKBykIdBdrWxnyVV4tmpq1eT8YQ=
 github.com/blevesearch/go-faiss v1.1.0 h1:xM7Jc0ZUCv5lssG9Ohj3Jv0SdTpxcUABU1dDt9XVsc4=
 github.com/blevesearch/go-faiss v1.1.0/go.mod h1:OMGQwOaRRYxrmeNdMrXJPvVx8gBnvE5RYrr0BahNnkk=
 github.com/blevesearch/go-faiss v1.1.5 h1:/IU5lkOahH9Ghfk9n3F6N0XD7PYVXZJWmNDc9TtXuco=
@@ -28,6 +32,8 @@ github.com/blevesearch/scorch_segment_api/v2 v2.4.7 h1:GlMzW08hcsM3DnLUxhyF/1PcD
 github.com/blevesearch/scorch_segment_api/v2 v2.4.7/go.mod h1://IJ7tG3QCf0cWW/aVSXqy77tc1AvLu3fcJLYEvOAFs=
 github.com/blevesearch/scorch_segment_api/v2 v2.4.10 h1:C3873+iWZ0YJM2ijaSHhJJzSvD4x1k+5UaQdGygZVhM=
 github.com/blevesearch/scorch_segment_api/v2 v2.4.10/go.mod h1:WUUkAocbkDlNK/kgAE13NvS9oxe+u618mYZ8sOvcCc4=
+github.com/blevesearch/scorch_segment_api/v2 v2.4.11 h1:VTXi18tB7YQMWSM/K16+z7ji1hK5PwvlS7MtzRCAJus=
+github.com/blevesearch/scorch_segment_api/v2 v2.4.11/go.mod h1:OHLLgtco0DySTL1uVESnmObFqn64MRX3aCKNQtXPi9M=
 github.com/blevesearch/segment v0.9.1 h1:+dThDy+Lvgj5JMxhmOVlgFfkUtZV2kw49xax4+jTfSU=
 github.com/blevesearch/segment v0.9.1/go.mod h1:zN21iLm7+GnBHWTao9I+Au/7MBiL8pPFtJBJTsk6kQw=
 github.com/blevesearch/snowballstem v0.9.0 h1:lMQ189YspGP6sXvZQ4WZ+MLawfV8wOmPoD/iWeNXm8s=
@@ -36,6 +42,8 @@ github.com/blevesearch/upsidedown_store_api v1.0.2 h1:U53Q6YoWEARVLd1OYNc9kvhBMG
 github.com/blevesearch/upsidedown_store_api v1.0.2/go.mod h1:M01mh3Gpfy56Ps/UXHjEO/knbqyQ1Oamg8If49gRwrQ=
 github.com/blevesearch/vellum v1.2.0 h1:xkDiOEsHc2t3Cp0NsNZZ36pvc130sCzcGKOPMzXe+e0=
 github.com/blevesearch/vellum v1.2.0/go.mod h1:uEcfBJz7mAOf0Kvq6qoEKQQkLODBF46SINYNkZNae4k=
+github.com/blevesearch/vellum v1.2.1 h1:PYryJDqBHjLM6n3YindZSQcrseaMs8QpcsrrAOpwwj8=
+github.com/blevesearch/vellum v1.2.1/go.mod h1:uEcfBJz7mAOf0Kvq6qoEKQQkLODBF46SINYNkZNae4k=
 github.com/blevesearch/zapx/v11 v11.4.3 h1:PTZOO5loKpHC/x/GzmPZNa9cw7GZIQxd5qRjwij9tHY=
 github.com/blevesearch/zapx/v11 v11.4.3/go.mod h1:4gdeyy9oGa/lLa6D34R9daXNUvfMPZqUYjPwiLmekwc=
 github.com/blevesearch/zapx/v12 v12.4.3 h1:eElXvAaAX4m04t//CGBQAtHNPA+Q6A1hHZVrN3LSFYo=
@@ -52,6 +60,8 @@ github.com/blevesearch/zapx/v17 v17.1.2 h1:avbOk2igaASNoiy0BE/jPgcxAnRI2PGeydeP4
 github.com/blevesearch/zapx/v17 v17.1.2/go.mod h1:WQObxKrqUX7cd0G1GMvDfc/bmZzQvoy7APOPimx7DiI=
 github.com/blevesearch/zapx/v17 v17.2.3 h1:UYYJPAt5b2tVxldx5h0jmv23RMsg8/UZKFVya7v92po=
 github.com/blevesearch/zapx/v17 v17.2.3/go.mod h1:r7mb4QWbDQSkbAnOjCb9iCfkcrzajB4yBdJpuBIo/fE=
+github.com/blevesearch/zapx/v17 v17.2.5 h1:1A3bXvT/8XkEVaUQBfD0jQBAO8kSQEiCwgrRNPKp0TE=
+github.com/blevesearch/zapx/v17 v17.2.5/go.mod h1:8SHp6q+3FNVCqPyRiTFZDSRm1WA2G8Q3zCk8lRBfhT4=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/snappy v1.0.0 h1:Oy607GVXHs7RtbggtPBnr2RmDArIsAefDwvrdWvRhGs=
