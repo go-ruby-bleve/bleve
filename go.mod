@@ -2,7 +2,7 @@ module github.com/go-ruby-bleve/bleve
 
 go 1.27.1
 
-require github.com/blevesearch/bleve/v2 v2.6.3
+require github.com/blevesearch/bleve/v2 v2.6.4
 
 require (
 	github.com/RoaringBitmap/roaring/v2 v2.14.5 // indirect
